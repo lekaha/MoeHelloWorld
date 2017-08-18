@@ -1,0 +1,1 @@
+{"output":"src/main/java","platform":"iOS","bindings":[{"type":"header","name":"RepositoryListViewController","objcClassGenerationMode":"Binding","headerPath":"xcode/MoeHelloWorld","headerSearchPaths":[],"userHeaderSearchPaths":[],"frameworkSearchPaths":[],"packageBase":"co.lkh.android","importCode":"#import \"RepositoryListViewController.h\""}]}
